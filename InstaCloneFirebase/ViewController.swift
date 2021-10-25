@@ -46,6 +46,7 @@ class ViewController: UIViewController {
             
         } else {
             makeAlert(titleInput: "Error!", messageInput: "Username/Password?")
+            print("Selam")
             
         }
         
